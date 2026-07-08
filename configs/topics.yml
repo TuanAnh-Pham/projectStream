@@ -1,0 +1,5 @@
+topics:
+  raw_market_events: quant.raw.market_events
+  raw_macro_events: quant.raw.macro_events
+  raw_news_events: quant.raw.news_events
+  feature_asset_risk: quant.feature.asset_risk
