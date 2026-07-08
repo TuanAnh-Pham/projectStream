@@ -1,0 +1,19 @@
+crypto:
+  - id: bitcoin
+    symbol: BTC
+  - id: ethereum
+    symbol: ETH
+  - id: solana
+    symbol: SOL
+market_symbols:
+  - SPY
+  - QQQ
+  - AAPL
+fx_symbols:
+  - EURUSD
+  - USDJPY
+macro_indicators:
+  - FEDFUNDS
+  - DGS10
+  - DGS2
+  - CPIAUCSL
